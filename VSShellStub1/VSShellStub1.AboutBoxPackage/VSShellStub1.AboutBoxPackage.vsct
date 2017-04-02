@@ -62,7 +62,7 @@
         <Parent guid="guidAboutBoxPackageCmdSet" id="MyMenuGroup" />
         <Strings>
           <CommandName>cmdidHelpAbout</CommandName>
-          <ButtonText>&amp;About VSShellStub1</ButtonText>
+          <ButtonText>&amp;About VSShellStub1 test</ButtonText>
         </Strings>
       </Button>
     </Buttons>

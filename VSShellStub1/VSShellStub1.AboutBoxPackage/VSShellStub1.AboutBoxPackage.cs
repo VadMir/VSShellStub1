@@ -74,6 +74,8 @@ namespace VSShellStub1.AboutBoxPackage
         /// </summary>
         private void MenuItemCallback(object sender, EventArgs e)
         {
+            //EnvDTE80.DTE2 dte = this.GetService(typeof(EnvDTE100)) as EnvDTE100;
+            Console.WriteLine("О программе..");
             AboutBox aboutBox = new AboutBox();
             aboutBox.ShowModal();
         }

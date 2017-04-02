@@ -234,11 +234,11 @@
   <!-- <Define name="No_MRUCommands"/> -->
   <!-- <Define name="No_MRUFileCommand"/> -->
   <!-- <Define name="No_MRUProjectCommand"/> -->
-  <!-- <Define name="No_PrintingCommands"/> -->
+   <Define name="No_PrintingCommands"/>
   <!-- <Define name="No_PageSetupCommand"/> -->
   <!-- <Define name="No_PrintPreviewCommand"/> -->
-  <!-- <Define name="No_PrintCommand"/> -->
-  <!-- <Define name="No_PrintDefaultCommand"/> -->
+   <Define name="No_PrintCommand"/> 
+  <Define name="No_PrintDefaultCommand"/> 
   <!-- <Define name="No_AddCommandMenu"/> -->
   <!-- <Define name="No_DocumentTabContextMenu"/> -->
   <!-- <Define name="No_CopyFullPathNameCommand"/> -->
@@ -338,7 +338,7 @@
   <Define name="No_CheckForUpdatesCommand"/>
   <Define name="No_RegistrationCommand"/>
   <Define name="No_OnlinePrivacyStatementCommand" />
-  <!-- <Define name="No_PrintChildrenCommand"/> -->
+  <Define name="No_PrintChildrenCommand"/> 
   <!-- <Define name="No_HelpF1AsyncCompleteCommand"/> -->
   <!-- <Define name="CallHierarchyCommands"/> -->
   <!-- <Define name="ConsumeFirstCompletionCommands"/> -->

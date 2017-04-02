@@ -4,7 +4,7 @@
 "ThisVersionDTECLSID"="{496450ae-c107-49f7-b443-0d373d38a168}"
 "ThisVersionSolutionCLSID"="{7ac17ef3-abb5-4729-9fef-ba4d25b0329c}"
 "SplashScreenBitmap"="$RootFolder$\Splash.bmp"
-"AppName"="VSShellStub1"
+"AppName"="KRON"
 "AppIcon"="$RootFolder$\ApplicationIcon.ico"
 "ProductVersion"="1.0"
 "CommandLineLogo"="My Company VSShellStub1 Version 1.0"
@@ -15,8 +15,8 @@
 "AddinsAllowed"=dword:00000001
 "DisableOutputWindow"=dword:00000000
 "AllowsDroppedFilesOnMainWindow"=dword:00000001
-"DefaultSearchPage"="https://www.bing.com"
-"DefaultHomePage"="http://www.My Company.com"
+"DefaultSearchPage"="https://www.yandex.com"
+"DefaultHomePage"="http://www.mail.ru"
 "HideSolutionConcept"=dword:00000000
 "DefaultDebugEngine"="{00000000-0000-0000-0000-000000000000}"
 "UserOptsFileExt"="VSShellStub1_suo"
